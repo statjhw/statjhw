@@ -1,7 +1,8 @@
 # 👋 Hello, I'm 장현우!
 
 ## 💻 About Me
-- 🎓 **Major**: Computer Science
+- 🎓 **Major**: Statistics (Primary Major)  
+- 🎓 **Double Major**: Computer Science  
 - 🌟 **Dream**: Data Engineer
 - 🛠️ Interested in **Data Engineering**, **Backend Development**, and **Cloud Computing**.
 
