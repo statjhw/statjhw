@@ -1,6 +1,5 @@
-# 👋 Hello, I'm 장현우!
-
 ## 💻 About Me
+🎓 **University**: Inha University (인하대학교)  
 - 🎓 **Major**: Statistics (Primary Major)  
 - 🎓 **Double Major**: Computer Science  
 - 🌟 **Dream**: Data Engineer
