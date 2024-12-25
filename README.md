@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm 장현우!
 
-<!--
-**statjhw/statjhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 **Major**: Computer Science
+- 🌟 **Dream**: Data Engineer
+- 🛠️ Interested in **Data Engineering**, **Backend Development**, and **Cloud Computing**.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages**: Python, C++, SQL
+- **Tools & Frameworks**: Docker, FastAPI, Apache Kafka
+- **Databases**: MySQL, MongoDB, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [**Data Pipeline with Kafka and Spark**](https://github.com/statjhw/data-pipeline): Implemented a real-time data processing pipeline.
+- [**AI Backend API**](https://github.com/statjhw/ai-backend): Backend development for an AI model deployment.
+
+## 🌐 Find Me
+- 🌍 [**Blog**](https://your-blog.com)
+- 💼 [**LinkedIn**](https://linkedin.com/in/statjhw)
+- 📧 Email: statjhw@example.com
