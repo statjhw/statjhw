@@ -1,6 +1,3 @@
-[포트폴리오](https://janghw-portfolio.vercel.app/)
-
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=statjhw&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/statjhw"
