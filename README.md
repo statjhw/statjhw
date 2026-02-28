@@ -24,7 +24,7 @@ B.S. in Statistics | B.S. in Computer Science & Engineering (Double Major)
 ## Achievements
 
 - 🥇 **Outstanding Trainee Award** — Gyeonggi-do AI, Cloud Talent Development Program *(Governor's Commendation)*
-- 🥇 **Top Graduate** — Hyundai Softeer Data Engineering Bootcamp
+- 🥇 **Top softeer** — Hyundai Softeer Data Engineering Bootcamp
 
 ---
 
