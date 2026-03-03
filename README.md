@@ -42,3 +42,4 @@ B.S. in Statistics | B.S. in Computer Science & Engineering (Double Major)
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:generaljang0608@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@statjhw/)
