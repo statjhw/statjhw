@@ -17,14 +17,14 @@ B.S. in Statistics | B.S. in Computer Science & Engineering (Double Major)
 | Period | Program                                              |
 |--------|------------------------------------------------------|
 | Jul 2025 – Sep 2025 | **Gyeonggi-do AI, Cloud Talent Development Program** |
-| Jan 2026 – Feb 2026 | **Hyundai Softeer Data Engineering Bootcamp**        |
+| Jan 2026 – Feb 2026 | **HMG Softeer Data Engineering Bootcamp**        |
 
 ---
 
 ## Achievements
 
 - 🥇 **Outstanding Trainee Award** - Gyeonggi-do Governor’s Award
-- 🥇 **Top softeer** — Hyundai Softeer Data Engineering Bootcamp
+- 🥇 **Top softeer** — HMG Softeer Data Engineering Bootcamp
 
 ---
 
